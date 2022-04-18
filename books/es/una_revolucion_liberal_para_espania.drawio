@@ -1,0 +1,354 @@
+<mxfile host="65bd71144e">
+    <diagram id="QBiS1wYHNh1g0d06hEHo" name="El Estado">
+        <mxGraphModel dx="1117" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4kumGV7UyCwaJCbsrXP9-9" value="&lt;div style=&quot;font-size: 14px&quot;&gt;Monopolio territorial de la violencia legítima.&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;gradientColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="44" y="170" width="740" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="aQMCOIiQVruzc4h8ixWK-12" style="edgeStyle=none;html=1;entryX=0.626;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4kumGV7UyCwaJCbsrXP9-10" target="aQMCOIiQVruzc4h8ixWK-10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="aQMCOIiQVruzc4h8ixWK-43" style="edgeStyle=none;html=1;entryX=0.547;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4kumGV7UyCwaJCbsrXP9-10" target="aQMCOIiQVruzc4h8ixWK-21" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4kumGV7UyCwaJCbsrXP9-10" value="&lt;h3&gt;¿Qué normas permiten minimizar los conflictos que puedan emerger en relación con los recursos materiales o con las acciones de las personas?&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="200" width="790" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="aQMCOIiQVruzc4h8ixWK-10" value="Normas socialistas" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#10739E;strokeColor=none;fontSize=17;fontStyle=1;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="300" width="190" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="aQMCOIiQVruzc4h8ixWK-11" value="&quot;De cada cuál según sus capacidades, a cada cual según sus necesidades&quot;.&lt;br&gt;Principio no funcional, no minimiza conflictos." style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="340" width="190" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="6hOd6ysBdV4ejeXDP8Tf-9" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry width="827" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="group" parent="6hOd6ysBdV4ejeXDP8Tf-9" vertex="1" connectable="0">
+                    <mxGeometry width="827" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="3" vertex="1">
+                    <mxGeometry width="826.9999999999998" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;h1&gt;Una revolución liberal para España.&lt;/h1&gt;&lt;p&gt;Anatomía de un país libre y próspero: ¿Cómo sería y qué beneficios obtendríamos?&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;labelBorderColor=none;" parent="3" vertex="1">
+                    <mxGeometry x="140" y="15" width="510" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="6hOd6ysBdV4ejeXDP8Tf-9" vertex="1">
+                    <mxGeometry y="100" width="827" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;pre&gt;El Estado&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;" parent="6hOd6ysBdV4ejeXDP8Tf-9" vertex="1">
+                    <mxGeometry x="270" y="115" width="250" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6hOd6ysBdV4ejeXDP8Tf-10" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="240" y="300" width="550" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="aQMCOIiQVruzc4h8ixWK-21" value="Normas liberales" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#F2931E;strokeColor=none;fontSize=17;fontStyle=1;align=center;" parent="6hOd6ysBdV4ejeXDP8Tf-10" vertex="1">
+                    <mxGeometry width="550" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="aQMCOIiQVruzc4h8ixWK-22" value="&lt;pre style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;b&gt;Propiedad privada.&lt;/b&gt;&lt;/span&gt;&lt;/pre&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;Principio &quot;finders, keepers&quot; quien lo encuentra se lo queda, luego pueda transferirse (donarse, intercambiarse o legarse).&lt;/span&gt;&lt;/div&gt;" style="shape=rect;fillColor=#F8C382;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;" parent="6hOd6ysBdV4ejeXDP8Tf-10" vertex="1">
+                    <mxGeometry y="80" width="270" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="aQMCOIiQVruzc4h8ixWK-23" value="&lt;pre style=&quot;text-align: center&quot;&gt;&lt;b&gt;Contratos voluntarios.&lt;/b&gt;&lt;/pre&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;Modulan derechos y obligaciones individuales reordenando la disponibilidad social de recursos escasos, incluyendo servicios prestados por terceros (pacta sunt servanda).&lt;/span&gt;&lt;/div&gt;" style="shape=rect;fillColor=#F8C382;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;" parent="6hOd6ysBdV4ejeXDP8Tf-10" vertex="1">
+                    <mxGeometry x="280" y="80" width="270" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="aQMCOIiQVruzc4h8ixWK-44" value="A cada uno lo suyo, &quot;suum cuique&quot;." style="shape=rect;fillColor=#F8C382;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;" parent="6hOd6ysBdV4ejeXDP8Tf-10" vertex="1">
+                    <mxGeometry y="40" width="550" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6hOd6ysBdV4ejeXDP8Tf-28" style="edgeStyle=none;html=1;exitX=0.176;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="145.03999999999996" y="570" as="sourcePoint"/>
+                        <mxPoint x="146.17022317062333" y="592" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6hOd6ysBdV4ejeXDP8Tf-11" value="&lt;h3&gt;El estado es una organización antisocial que ejerce violencia para vivir a expensas de la socidad. No puede controlarse por los votantes.&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="500" width="790" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6hOd6ysBdV4ejeXDP8Tf-27" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="20" y="592" width="790" height="128" as="geometry"/>
+                </mxCell>
+                <mxCell id="6hOd6ysBdV4ejeXDP8Tf-12" value="&lt;b&gt;Principio de ignorancia irracional&lt;/b&gt;: poca influencia de cada votante para los altos costes que acarrea informarse apropiadamente." style="html=1;fillColor=#F2931E;strokeColor=none;shadow=0;fontSize=12;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;" parent="6hOd6ysBdV4ejeXDP8Tf-27" vertex="1">
+                    <mxGeometry width="250" height="128" as="geometry"/>
+                </mxCell>
+                <mxCell id="6hOd6ysBdV4ejeXDP8Tf-13" value="&lt;b&gt;Irracionalidad del votante&lt;/b&gt;: aunque estuviera informado apropiadamente las personas padecen multitud de sesgos, lagunas y prejuicios que le conducirán a elegir mal." style="html=1;fillColor=#F5AB50;strokeColor=none;shadow=0;fontSize=12;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;" parent="6hOd6ysBdV4ejeXDP8Tf-27" vertex="1">
+                    <mxGeometry x="270" width="250" height="128" as="geometry"/>
+                </mxCell>
+                <mxCell id="6hOd6ysBdV4ejeXDP8Tf-14" value="Aunque pudieramos controlar al estado seguiría tomando malas y coactivas decisiones, siendo instrumentalizado por políticos, burócratas y grupos de presión." style="html=1;fillColor=#F8C382;strokeColor=none;shadow=0;fontSize=12;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;" parent="6hOd6ysBdV4ejeXDP8Tf-27" vertex="1">
+                    <mxGeometry x="540" width="250" height="128" as="geometry"/>
+                </mxCell>
+                <mxCell id="6hOd6ysBdV4ejeXDP8Tf-30" style="edgeStyle=none;html=1;exitX=0.176;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="414.03999999999996" y="572" as="sourcePoint"/>
+                        <mxPoint x="415.17022317062333" y="594" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6hOd6ysBdV4ejeXDP8Tf-31" style="edgeStyle=none;html=1;exitX=0.176;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="685.04" y="571" as="sourcePoint"/>
+                        <mxPoint x="686.1702231706233" y="593" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="&lt;h3&gt;Justificaciones para la existencia del Estado.&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="740" width="790" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="EQUIDAD" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#10739E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="41" y="838" width="350" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="EFICIENCIA" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#F2931E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="411" y="839" width="380" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="¿Sociedad con una distribución más igualitaria de la renta ees superior a una más desigualitaria repartiendo la renta?&lt;br&gt;La igualdad carece de valor intrínseco per se y no puede servicr de base para justificar la coacción estatal." style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="41" y="878" width="350" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Garantizar acceso universal a servicios fundamentales que en un mercado libre quedarían fuera del alcance de la mayoría de la población. Antes de impuestos es difícil pensar en dichos servicios." style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="41" y="1008" width="350" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;b&gt;Externalidades&lt;/b&gt;, precios de mercado que no muestren correctamente beneficios o costes." style="shape=rect;fillColor=#FCE7CD;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="411" y="879" width="380" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;b&gt;Bienes públicos&lt;/b&gt; que necesitarían de una alta coordinación social que se asume imposible por la existencia de gorrones.&lt;br&gt;El estado debería actuar de manera subsidaria en estos casos en lugar de actuar de manera prioritaria." style="shape=rect;fillColor=#FCE7CD;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="411" y="1008" width="380" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=none;html=1;exitX=0.176;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="199.99999999999997" y="810" as="sourcePoint"/>
+                        <mxPoint x="201.13022317062334" y="832" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" style="edgeStyle=none;html=1;exitX=0.176;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="599" y="812" as="sourcePoint"/>
+                        <mxPoint x="600.1302231706234" y="834" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="iWgZDvA8PtHxsjSSHevD" name="El coste del Estado / El Estado ¿Único proveedor posible?">
+        <mxGraphModel dx="1117" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="YkL8Xlr_gp-hlZaYLKjm-0"/>
+                <mxCell id="YkL8Xlr_gp-hlZaYLKjm-1" parent="YkL8Xlr_gp-hlZaYLKjm-0"/>
+                <mxCell id="8pz1iP9jv7Q0QandOa78-0" value="" style="group" parent="YkL8Xlr_gp-hlZaYLKjm-1" vertex="1" connectable="0">
+                    <mxGeometry width="827" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="6ZjCv6aezLEhVAaxXwr7-0" value="" style="group" parent="8pz1iP9jv7Q0QandOa78-0" vertex="1" connectable="0">
+                    <mxGeometry width="827" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="6ZjCv6aezLEhVAaxXwr7-1" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="6ZjCv6aezLEhVAaxXwr7-0" vertex="1">
+                    <mxGeometry width="826.9999999999998" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="6ZjCv6aezLEhVAaxXwr7-2" value="&lt;h1&gt;Una revolución liberal para España.&lt;/h1&gt;&lt;p&gt;Anatomía de un país libre y próspero: ¿Cómo sería y qué beneficios obtendríamos?&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;labelBorderColor=none;" parent="6ZjCv6aezLEhVAaxXwr7-0" vertex="1">
+                    <mxGeometry x="140" y="15" width="510" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6ZjCv6aezLEhVAaxXwr7-5" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="8pz1iP9jv7Q0QandOa78-0" vertex="1">
+                    <mxGeometry y="100" width="827" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6ZjCv6aezLEhVAaxXwr7-6" value="&lt;pre&gt;El coste del Estado&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;" parent="8pz1iP9jv7Q0QandOa78-0" vertex="1">
+                    <mxGeometry x="270" y="115" width="250" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-4" value="Presupuesto España 2012" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="YkL8Xlr_gp-hlZaYLKjm-1">
+                    <mxGeometry x="4" y="160" width="820" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-4">
+                    <mxGeometry y="30" width="820" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-5">
+                    <mxGeometry width="205" height="30" as="geometry">
+                        <mxRectangle width="205" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-7" value="Total (En mililones)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-5">
+                    <mxGeometry x="205" width="206" height="30" as="geometry">
+                        <mxRectangle width="206" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-8" value="Por habitante" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-5">
+                    <mxGeometry x="411" width="204" height="30" as="geometry">
+                        <mxRectangle width="204" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-23" value="Por trabajador" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-5">
+                    <mxGeometry x="615" width="205" height="30" as="geometry">
+                        <mxRectangle width="205" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-4">
+                    <mxGeometry y="60" width="820" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-10" value="&lt;span&gt;Ingresos&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-9">
+                    <mxGeometry width="205" height="30" as="geometry">
+                        <mxRectangle width="205" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-11" value="382.000 €" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-9">
+                    <mxGeometry x="205" width="206" height="30" as="geometry">
+                        <mxRectangle width="206" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-12" value="8.273 €" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-9">
+                    <mxGeometry x="411" width="204" height="30" as="geometry">
+                        <mxRectangle width="204" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-24" value="22.100 €" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-9">
+                    <mxGeometry x="615" width="205" height="30" as="geometry">
+                        <mxRectangle width="205" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-29" value="Impuestos trabajador modal" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="YkL8Xlr_gp-hlZaYLKjm-1">
+                    <mxGeometry x="4" y="300" width="490" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-35" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-29">
+                    <mxGeometry y="40" width="490" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-36" value="&lt;span&gt;Salario total del trabajador antes de cotizaciohnes sociales&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-35">
+                    <mxGeometry width="380" height="22" as="geometry">
+                        <mxRectangle width="380" height="22" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-37" value="20.100" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-35">
+                    <mxGeometry x="380" width="110" height="22" as="geometry">
+                        <mxRectangle width="110" height="22" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-29">
+                    <mxGeometry y="62" width="490" height="21" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-41" value="Cotización a la seguridad social a cuenta del empresario" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-40">
+                    <mxGeometry width="380" height="21" as="geometry">
+                        <mxRectangle width="380" height="21" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-42" value="-4.600" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-40">
+                    <mxGeometry x="380" width="110" height="21" as="geometry">
+                        <mxRectangle width="110" height="21" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-43" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-29">
+                    <mxGeometry y="83" width="490" height="21" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-44" value="Salario bruto en nómina" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-43">
+                    <mxGeometry width="380" height="21" as="geometry">
+                        <mxRectangle width="380" height="21" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-45" value="15.500" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-43">
+                    <mxGeometry x="380" width="110" height="21" as="geometry">
+                        <mxRectangle width="110" height="21" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-46" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-29">
+                    <mxGeometry y="104" width="490" height="21" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-47" value="Cotización a la seguridad social a cuenta del trabajador" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-46">
+                    <mxGeometry width="380" height="21" as="geometry">
+                        <mxRectangle width="380" height="21" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-48" value="-1.000" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-46">
+                    <mxGeometry x="380" width="110" height="21" as="geometry">
+                        <mxRectangle width="110" height="21" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-29">
+                    <mxGeometry y="125" width="490" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-50" value="IRPF" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-49">
+                    <mxGeometry width="380" height="22" as="geometry">
+                        <mxRectangle width="380" height="22" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-51" value="-1.500" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-49">
+                    <mxGeometry x="380" width="110" height="22" as="geometry">
+                        <mxRectangle width="110" height="22" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-52" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-29">
+                    <mxGeometry y="147" width="490" height="21" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-53" value="Salario disponible después de impuestos directos" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-52">
+                    <mxGeometry width="380" height="21" as="geometry">
+                        <mxRectangle width="380" height="21" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-54" value="13.000" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-52">
+                    <mxGeometry x="380" width="110" height="21" as="geometry">
+                        <mxRectangle width="110" height="21" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-55" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-29">
+                    <mxGeometry y="168" width="490" height="21" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-56" value="Impuestos indirectos sobre el consumo" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-55">
+                    <mxGeometry width="380" height="21" as="geometry">
+                        <mxRectangle width="380" height="21" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-57" value="-2.100" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-55">
+                    <mxGeometry x="380" width="110" height="21" as="geometry">
+                        <mxRectangle width="110" height="21" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-58" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-29">
+                    <mxGeometry y="189" width="490" height="21" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-59" value="Renta final disponible" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-58">
+                    <mxGeometry width="380" height="21" as="geometry">
+                        <mxRectangle width="380" height="21" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-60" value="10.900" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Md_rfHhTt4PW3PxAI3ci-58">
+                    <mxGeometry x="380" width="110" height="21" as="geometry">
+                        <mxRectangle width="110" height="21" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="I7jD91KnsO_7j9pJYg__-22" value="" style="group" vertex="1" connectable="0" parent="YkL8Xlr_gp-hlZaYLKjm-1">
+                    <mxGeometry y="599.9963636363636" width="827" height="51.27272727272725" as="geometry"/>
+                </mxCell>
+                <mxCell id="6ZjCv6aezLEhVAaxXwr7-13" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" parent="I7jD91KnsO_7j9pJYg__-22" vertex="1">
+                    <mxGeometry width="827" height="51.272727272727266" as="geometry"/>
+                </mxCell>
+                <mxCell id="6ZjCv6aezLEhVAaxXwr7-14" value="&lt;pre&gt;El Estado, ¿Único proveedor posible?&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;" parent="I7jD91KnsO_7j9pJYg__-22" vertex="1">
+                    <mxGeometry x="269.5" y="12.8154545454546" width="250" height="25.636363636363633" as="geometry"/>
+                </mxCell>
+                <mxCell id="I7jD91KnsO_7j9pJYg__-5" value="Reflexiones" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#12AAB5;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;" vertex="1" parent="YkL8Xlr_gp-hlZaYLKjm-1">
+                    <mxGeometry x="40" y="766.4736363636364" width="750" height="25.636363636363633" as="geometry"/>
+                </mxCell>
+                <mxCell id="I7jD91KnsO_7j9pJYg__-18" value="&lt;h5&gt;&lt;/h5&gt;&lt;h4&gt;&lt;/h4&gt;&lt;h3&gt;&lt;/h3&gt;&lt;h2&gt;&lt;ul&gt;&lt;li&gt;A día de hoy mayoría de bienes y servicios ya son proporcionados por el mercado incluso tan fundamentales como la ropa o la comida.&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Lo que provea el mercado en sustitución de lo que proporciona el Estado no tiene que ser exactamente como lo proporciona el Estado hoy en día. En el mercado se innova. En el estado no se experimenta de manera descentralizada.&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;In dubio pro libertate. Aunquie pudiera haber ciertas áreas donde el mercado no pudiera llegar debería restringirse a áreas donde la autoorganización social no llegue, principio de subsidariedad.&lt;/li&gt;&lt;/ul&gt;&lt;/h2&gt;" style="shape=rect;fillColor=#B0E3E6;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="YkL8Xlr_gp-hlZaYLKjm-1">
+                    <mxGeometry x="40" y="800.66" width="750" height="299.34" as="geometry"/>
+                </mxCell>
+                <mxCell id="I7jD91KnsO_7j9pJYg__-0" value="&lt;div style=&quot;font-size: 14px&quot;&gt;Sesgo de status quo impide ver otras alternativas.&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;gradientColor=#ffffff;" vertex="1" parent="YkL8Xlr_gp-hlZaYLKjm-1">
+                    <mxGeometry x="40" y="687" width="740" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="I7jD91KnsO_7j9pJYg__-23" value="" style="group" vertex="1" connectable="0" parent="YkL8Xlr_gp-hlZaYLKjm-1">
+                    <mxGeometry x="527" y="293" width="283" height="221" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-73" value="Copago y otros ingresos" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#64BBE2;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="I7jD91KnsO_7j9pJYg__-23">
+                    <mxGeometry x="31" y="10" width="252" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-74" value="9%" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;" vertex="1" parent="I7jD91KnsO_7j9pJYg__-23">
+                    <mxGeometry x="1" width="50" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-75" value="Impuestos indirectos" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#F8C382;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="I7jD91KnsO_7j9pJYg__-23">
+                    <mxGeometry x="31" y="67" width="252" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-76" value="28%" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#F2931E;strokeWidth=4;fontColor=#ffffff;align=center;" vertex="1" parent="I7jD91KnsO_7j9pJYg__-23">
+                    <mxGeometry x="1" y="57" width="50" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-77" value="Impuestos directos" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#F08E81;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="I7jD91KnsO_7j9pJYg__-23">
+                    <mxGeometry x="29" y="124" width="254" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-78" value="28%" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#AE4132;strokeWidth=4;fontColor=#ffffff;align=center;" vertex="1" parent="I7jD91KnsO_7j9pJYg__-23">
+                    <mxGeometry y="114" width="50" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-79" value="Cotizaciones sociales" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#5D7F99;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="I7jD91KnsO_7j9pJYg__-23">
+                    <mxGeometry x="31" y="181" width="252" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Md_rfHhTt4PW3PxAI3ci-80" value="35%" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#23445D;strokeWidth=4;fontColor=#ffffff;align=center;" vertex="1" parent="I7jD91KnsO_7j9pJYg__-23">
+                    <mxGeometry y="171" width="50" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
