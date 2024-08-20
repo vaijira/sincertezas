@@ -1,18 +1,25 @@
 \documentclass[11pt,twoside,openright]{memoir}
 
+\usepackage[utf8]{inputenc}
+
 \usepackage[spanish]{babel}
 
 \usepackage[size=pocket, bleed=false, paper=cream, color=false]{createspace}
-
-\usepackage{fixltx2e}
 
 \usepackage{memhfixc}
 
 \usepackage{hyperref}
 
+\hypersetup{
+  colorlinks=true,
+}
+
 \usepackage{lettrine}
 
-\usepackage[utf8]{inputenc}
+\usepackage[autostyle]{csquotes}
+
+\usepackage[style=alphabetic, sorting=anyt]{biblatex}
+\addbibresource{conferencias_bastos.bib}
 
 \selectlanguage{spanish}
 
@@ -27,5 +34,7 @@
 \mainmatter
 
 \include{./el_fracaso_de_la_agenda_2030}
+
+\printbibliography
 
 \end{document}
