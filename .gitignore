@@ -27,5 +27,7 @@ Cargo.lock
 **/*.bcf
 **/*.blg
 **/*.run.xml
+**/*.epub
+**/*.mobi
 
 
