@@ -1,12 +1,8 @@
-\documentclass[11pt,twoside,openright]{memoir}
+\documentclass{book}
 
 \usepackage[utf8]{inputenc}
 
 \usepackage[english,spanish]{babel}
-
-\usepackage[size=pocket, bleed=false, paper=cream, color=false]{createspace}
-
-\usepackage{memhfixc}
 
 \usepackage{hyperref}
 
@@ -14,12 +10,10 @@
   colorlinks=true,
 }
 
-\usepackage{lettrine}
-
 \usepackage[autostyle]{csquotes}
 
-\usepackage[style=alphabetic, sorting=anyt]{biblatex}
-\addbibresource{conferencias_bastos.bib}
+\usepackage{natbib}
+\bibliographystyle{unsrtnat}
 
 \selectlanguage{spanish}
 
@@ -29,10 +23,14 @@
     version={4.0},
 ]{doclicense}
 
+\usepackage{tocloft}
+
+\usepackage[nomathjax]{bookml/bookml}
+
 \usepackage{etoolbox}
 
 \newbool{ismemoir}
-\setbool{ismemoir}{true}
+\setbool{ismemoir}{false}
 
 \title{Conferencias de Miguel Anxo Bastos, Volumen I}
 
@@ -53,6 +51,6 @@
 \include{./la_revolucion_francesa}
 \include{./el_fracaso_de_la_agenda_2030}
 
-\printbibliography
+\bibliography{conferencias_bastos}
 
 \end{document}
