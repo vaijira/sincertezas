@@ -31,3 +31,4 @@ Cargo.lock
 **/*.mobi
 
 
+.Rproj.user

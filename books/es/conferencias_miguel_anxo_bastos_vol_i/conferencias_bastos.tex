@@ -18,8 +18,11 @@
 
 \usepackage[autostyle]{csquotes}
 
-\usepackage[style=alphabetic, sorting=anyt]{biblatex}
-\addbibresource{conferencias_bastos.bib}
+\usepackage{natbib}
+\bibliographystyle{unsrtnat}
+
+%\usepackage[style=alphabetic, sorting=anyt]{biblatex}
+%\addbibresource{conferencias_bastos.bib}
 
 \selectlanguage{spanish}
 
@@ -53,6 +56,7 @@
 \include{./la_revolucion_francesa}
 \include{./el_fracaso_de_la_agenda_2030}
 
-\printbibliography
+%\printbibliography
+\bibliography{conferencias_bastos}
 
 \end{document}
