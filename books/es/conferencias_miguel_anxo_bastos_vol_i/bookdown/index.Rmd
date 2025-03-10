@@ -9,6 +9,7 @@ url: https://www.miguelanxobastos.org/conferencias_vol_i/
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
   Conferencias de Miguel Anxo Bastos, Volumen I.
+link-citations: yes
 biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
