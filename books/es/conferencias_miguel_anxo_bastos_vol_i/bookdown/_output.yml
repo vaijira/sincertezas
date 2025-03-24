@@ -1,7 +1,9 @@
 bookdown::bs4_book:
-  css: style.css
+  includes:
+    in_header: [ extra_headers.html ]
   theme:
     primary: "#096B72"
+  css: style.css
 #  repo: https://github.com/rstudio/bookdown-demo
 bookdown::pdf_book:
   includes:
